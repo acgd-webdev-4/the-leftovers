@@ -8,9 +8,10 @@ deliverables: 'Pattern library'
 
 ## Overview
 
-- *Continue work on your `dog-rescue-pattern-library`*
+- *Continue work on your `ecommerce-pattern-library`*
 - Design any remaining components needed for your website—including components for other pages (pages that we’re not actually coding).
 - *When we start doing the homepage next week there should be nothing left to style—you should be able to copy-and-paste and assemble the whole page with all your created patterns.*
+- *When you hand off your pattern library to your “developer” there should be no components missing.*
 - **Also, go through every single pattern and make sure nothing is styled by tag—only by class.**
 - **Double check the README explanations:**
   - Are all your explanations for the patterns good enough?
@@ -28,4 +29,4 @@ deliverables: 'Pattern library'
 
 ## Hand in
 
-Show teacher for marks during next class.
+Submit nothing.

@@ -10,7 +10,8 @@ deliverables: 'Pattern library'
 
 - *Continue work on your `ecommerce-pattern-library`*
 - Design any remaining components needed for your website—including components for other pages (pages that we’re not actually coding).
-- *When we start doing the homepage next week there should be nothing left to style—you should be able to copy-and-paste and assemble the whole page with all your created patterns.*
+- *When we start doing the homepage next week there should be nothing left to style—you should be able to assemble the whole page with all your created patterns.*
+  - Make sure each pattern is a unique, single element—we’re not going to write their code again, or even copy-and-paste it, we’re going to use a system to pull it into our pages. The only exception to this rule is the buttons, the HTML for buttons is so simple we will copy-and-paste those.
 - *When you hand off your pattern library to your “developer” there should be no components missing.*
 - **Also, go through every single pattern and make sure nothing is styled by tag—only by class.**
 - **Double check the README explanations:**
@@ -21,12 +22,15 @@ deliverables: 'Pattern library'
 
 ---
 
-## Details
+## Task list
 
-- *When & why:* In the `README.md` files describe when to use each new pattern you create.
+- [ ] Create any remaining patterns—everything should be done.
+- [ ] Make sure each pattern is a unique single element.
+- [ ] Make sure there is no CSS targeting an HTML tag, like `a` or `html` inside every pattern CSS file.
+- [ ] Double check the README explanations, they should be descriptive enough for someone else in class.
 
 ---
 
 ## Hand in
 
-Submit nothing.
+Show teacher for marks during next class.

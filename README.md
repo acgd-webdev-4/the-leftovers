@@ -27,6 +27,7 @@ deliverables: 'Pattern library'
 - [ ] Create any remaining patterns—everything should be done.
 - [ ] Make sure each pattern is a unique single element.
 - [ ] Make sure there is no CSS targeting an HTML tag, like `a` or `html` inside every pattern CSS file.
+- [ ] Make sure each pattern has appropriate accessibility features: ARIA landmark roles, skip links, alt attributes, etc.
 - [ ] Double check the README explanations, they should be descriptive enough for someone else in class.
 - [ ] Drag the `common` folder into Markbot and fix all the errors.
 - [ ] Drag the each individual pattern folder into Markbot and fix all the errors.
